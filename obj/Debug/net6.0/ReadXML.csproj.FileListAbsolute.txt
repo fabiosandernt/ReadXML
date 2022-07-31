@@ -1,0 +1,15 @@
+D:\Projects\ReadXML\bin\Debug\net6.0\ReadXML.exe
+D:\Projects\ReadXML\bin\Debug\net6.0\ReadXML.deps.json
+D:\Projects\ReadXML\bin\Debug\net6.0\ReadXML.runtimeconfig.json
+D:\Projects\ReadXML\bin\Debug\net6.0\ReadXML.dll
+D:\Projects\ReadXML\bin\Debug\net6.0\ReadXML.pdb
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.csproj.AssemblyReference.cache
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.AssemblyInfoInputs.cache
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.AssemblyInfo.cs
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.csproj.CoreCompileInputs.cache
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.dll
+D:\Projects\ReadXML\obj\Debug\net6.0\refint\ReadXML.dll
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.pdb
+D:\Projects\ReadXML\obj\Debug\net6.0\ReadXML.genruntimeconfig.cache
+D:\Projects\ReadXML\obj\Debug\net6.0\ref\ReadXML.dll
